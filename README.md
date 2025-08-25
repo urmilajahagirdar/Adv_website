@@ -1,6 +1,5 @@
-<h2>WELCOME TO LAWYER PORTFOLIO PROJECT</h2>
+<h2>WELCOME TO Adv. Urmila Jahagirdar PORTFOLIO</h2>
 
-<img src="https://github.com/urmilajahagirdar/Adv_website/tree/main/mockup/Capture.PNG" alt="webpage-mockup-preview">
 
 <P><b><u>Clear and Accessible Navigation: </u></b>The webpage features a well-organized navigation menu that allows users to easily access important sections of the website, including "about," "services," and "contact." The menu is available both in the header and as a hidden navigation bar, which will appear in small devices, enhancing user accessibility.</P>
     
